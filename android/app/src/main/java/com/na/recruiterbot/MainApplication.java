@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.na.recruiterbot;
 
 import android.support.multidex.MultiDexApplication;
 
